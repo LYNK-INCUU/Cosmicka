@@ -3,7 +3,8 @@ Release 2 OUT NOW!
 Kais Purp Discord theme
 
 Wawa First theme for Aliucord
-- Download and usage 
+- Download and usage.
+
 Install this in your plugins folder or use the ThemeRepo Plugin (may be a older version on there).
 
 
