@@ -1,0 +1,76 @@
+{
+  "name": "Cosmicka",
+  "version": "2.0",
+  "description": "Purple Dark Theme, Comfy for the eyes",
+  "authors": [
+    {
+      "name": "Lyntxrya#7769",
+      "id": "183251375193456641"
+    }
+  ],
+  "semanticColors": {
+    "TEXT_NORMAL": ["#FFFFFF", "#FFFFFF"],
+    "TEXT_MUTED": ["#CBC3E3", "#FFFFFF"],
+    "INTERACTIVE_NORMAL": ["#494b82", "#FFFFFF"],
+    "INTERACTIVE_HOVER": ["#3772FF", "#FFFFFF"],
+    "INTERACTIVE_ACTIVE": ["#3772FF", "#FFFFFF"],
+    "INTERACTIVE_MUTED": ["#CBC3E3", "#FFFFFF"],
+    "BACKGROUND_PRIMARY": ["#181141", "#FFFFFF"],
+    "BACKGROUND_SECONDARY": ["#080036", "#FFFFFF"],
+    "BACKGROUND_SECONDARY_ALT": ["#0B0B0B", "#FFFFFF"],
+    "BACKGROUND_TERTIARY": ["#060027", "#FFFFFF"],
+    "BACKGROUND_ACCENT": ["#7544d3", "#FFFFFF"],
+    "BACKGROUND_FLOATING": ["#060027", "#FFFFFF"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#060027", "#FFFFFF"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#060027", "#FFFFFF"],
+    "BACKGROUND_NESTED_FLOATING": ["#060027", "#FFFFFF"],
+    "BACKGROUND_MENTIONED_HOVER": ["#888df4", "#FFFFFF"],
+    "BACKGROUND_MESSAGE_HOVER": ["#A020F0", "#FFFFFF"],
+    "BACKGROUND_MESSAGE_HIGHLIGHT": ["#A020F0", "#FFFFFF"],
+    "CHAT_BACKGROUND": ["#060027", "#FFFFFF"],
+
+    "BACKGROUND_MESSAGE": ["#A020F0", "#FFFFFF"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#000000", "#FFFFFF"],
+    "SCROLLBAR_THIN_THUMB": ["transparent", "#FFFFFF"],
+    "SCROLLBAR_THIN_TRACK": ["transparent", "#FFFFFF"],
+    "SCROLLBAR_AUTO_THUMB": ["transparent", "#FFFFFF"],
+    "SCROLLBAR_AUTO_TRACK": ["transparent", "#FFFFFF"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#transparent", "#FFFFFF"],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#FFFFFF", "#FFFFFF"],
+    "CHANNEL_ICON": ["#A020F0", "#FFFFFF"],
+    "CHANNELS_DEFAULT": ["#2ab9cd", "#FFFFFF"],
+    "HEADER_SECONDARY": ["#2ab9cd", "#FFFFFF"],
+    "HEADER_PRIMARY": ["#FFFFFF", "#FFFFFF"]
+  },
+  "rawColors": {
+    "PRIMARY_600": "#000000",
+    "PRIMARY_500": "#0B0B0B",
+    "PRIMARY_630": "#A020F0",
+    "PRIMARY_800": "#000000",
+    "BRAND_260": "#A020F0",
+    "BRAND_360": "#A020F0",
+    "BRAND_500": "#A020F0",
+    "WHITE": "#FFFFFF",
+    "RED_260": "#FFFFFF",
+    "GREEN_600": "#FFFFFF",
+    "BRAND_300": "#FFFFFF",
+    "BRAND_330": "#FFFFFF",
+    "BRAND_345": "#FFFFFF",
+    "YELLOW_300": "#9F2B68",
+    "RED_345": "#A020F0",
+    "PRIMARY_400": "#A020F0"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#000000",
+
+    "color": "#A020F0"
+  },
+
+  // "background": {
+  //   "url": "https://i.redd.it/d596ve0ibhw21.jpg",
+  //   "blur": 1,
+  //   "alpha": 0.5
+  // },
+
+  "spec": 2
+}
