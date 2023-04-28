@@ -1,4 +1,4 @@
-# AliucordCosmicka
+# Cosmicka
 Vendetta\Aliucord RN Coming Soon!~
 
 Kais Purp Discord theme
