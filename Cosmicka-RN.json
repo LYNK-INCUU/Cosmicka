@@ -54,9 +54,6 @@
     "PRIMARY_630": "#25098f",
     "PRIMARY_700": "#9381FF",
     "PRIMARY_800": "#0f092f",
-    "BRAND_260": "#A020F0",
-    "BRAND_360": "#A020F0",
-    "BRAND_500": "#A020F0",
     "WHITE": "#FFFFFF",
     "RED_260": "#FFFFFF",
     "GREEN_600": "#FFFFFF",
@@ -65,6 +62,8 @@
     "BRAND_300": "#25098f",
     "BRAND_330": "#25098f",
     "BRAND_345": "#FFFFFF",
+    "BRAND_360": "#25098f",
+    "BRAND_500": "#25098f",
     "YELLOW_300": "#9F2B68",
     "RED_345": "#85f8de",
     "PRIMARY_400": "#85f8de"
