@@ -1,7 +1,7 @@
 {
-  "name": "Cosmicka",
+  "name": "Aetherion",
   "version": "2.0",
-  "description": "Purple Dark Theme, Comfy for the eyes",
+  "description": "Purple Dark Theme, Comfy for the eyes~ (cosmicka reborn)",
   "authors": [
     {
       "name": "Lyntxrya#7769",
@@ -30,13 +30,14 @@
     "BACKGROUND_MESSAGE_HOVER": ["#0e0c1c"],
     "BACKGROUND_MODIFIER_HOVER": ["#0e0c1c"],
     "BACKGROUND_MODIFIER_ACTIVE": ["#2c265c"],
-    "BACKGROUND_MODIFIER_SELECTED": ["#1f1940"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#5e61ff"],
     "BACKGROUND_MODIFIER_ACCENT": ["#241c52"],
     "SCROLLBAR_THIN_THUMB": ["#c9dfff"],
     "SCROLLBAR_THIN_TRACK": ["transparent"],
     "SCROLLBAR_AUTO_THUMB": ["#bdb3da"],
     "SCROLLBAR_AUTO_TRACK": ["#bdb3da"],
     "CHANNELTEXTAREA_BACKGROUND": ["#1e006b"],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER":[""],
     "CHANNELS_DEFAULT": ["#1e006b"],
     "TEXT_LINK": ["#875eff"],
     "TEXT_DANGER": ["#b01e45"],
@@ -45,13 +46,13 @@
     "CHAT_BACKGROUND": ["#110a1c"]
   },
   "rawColors": {
-    "PRIMARY_500": "#8c42fc", //color border
+    "PRIMARY_500": "#8c42fc", 
     "PRIMARY_100": "#d8c9ff",
     "PRIMARY_200": "#d8c9ff",
     "PRIMARY_300": "#614bb8",
     "PRIMARY_360": "#614bb8",
-    "PRIMARY_400": "#614bb8", //<<bottom bar color
-    "PRIMARY_600": "#080128", //<<main color
+    "PRIMARY_400": "#614bb8", 
+    "PRIMARY_600": "#080128", 
     "PRIMARY_630": "#12111b",
     "PRIMARY_660": "#080128",
     "PRIMARY_700": "#080128",
