@@ -1,7 +1,7 @@
 {
   "name": "Aetherion",
-  "version": "2.0",
-  "description": "Purple Dark Theme, Comfy for the eyes~ (cosmicka reborn)",
+  "version": "2.0.1",
+  "description": "A Purple Dark Theme, Comfy for the eyes~ | Based on Cosmicka.",
   "authors": [
     {
       "name": "Lyntxrya#7769",
@@ -9,8 +9,8 @@
     }
   ],
   "semanticColors": {
-    "HEADER_PRIMARY": ["#d8c9ff"],
-    "HEADER_SECONDARY": ["#d8c9ff"],
+    "HEADER_PRIMARY": ["#5e61ff"],
+    "HEADER_SECONDARY": ["#5e61ff"],
     "TEXT_NORMAL": ["#d8c9ff"],
     "TEXT_MUTED": ["#f04485"],
     "INTERACTIVE_NORMAL": ["#8945ff"],
@@ -18,7 +18,7 @@
     "INTERACTIVE_ACTIVE": ["#8c71de"],
     "INTERACTIVE_MUTED": ["#f04485"],
     "BACKGROUND_PRIMARY": ["#080228"],
-    "BACKGROUND_SECONDARY": ["#17132e"],
+    "BACKGROUND_SECONDARY": ["#070221"],
     "BACKGROUND_SECONDARY_ALT": ["#080228"],
     "BACKGROUND_TERTIARY": ["#080228"],
     "BACKGROUND_ACCENT": ["#130a2e"], 
@@ -32,10 +32,10 @@
     "BACKGROUND_MODIFIER_ACTIVE": ["#2c265c"],
     "BACKGROUND_MODIFIER_SELECTED": ["#190729"],
     "BACKGROUND_MODIFIER_ACCENT": ["#241c52"],
-    "SCROLLBAR_THIN_THUMB": ["#c9dfff"],
+    "SCROLLBAR_THIN_THUMB": ["transparent"],
     "SCROLLBAR_THIN_TRACK": ["transparent"],
-    "SCROLLBAR_AUTO_THUMB": ["#bdb3da"],
-    "SCROLLBAR_AUTO_TRACK": ["#bdb3da"],
+    "SCROLLBAR_AUTO_THUMB": ["transparent"],
+    "SCROLLBAR_AUTO_TRACK": ["transparent"],
     "CHANNELTEXTAREA_BACKGROUND": ["#1e006b"],
     "CHANNEL_TEXT_AREA_PLACEHOLDER":["#5e61ff"],
     "CHANNELS_DEFAULT": ["#5e59a8"],
