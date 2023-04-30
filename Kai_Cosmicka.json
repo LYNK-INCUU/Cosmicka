@@ -1,9 +1,9 @@
 {
     "manifest": {
-        "version": "1.4.7",
+        "version": "1.4.8",
         "author": "–✦– 𝙆𝙖𝙞𝙧𝙤𝙯𝙪𝙑𝙏 –✦–#9999",
         "name": "Cosmicka",
-        "updater": "https:\/\/raw.githubusercontent.com\/ZeldrexK0DE\/AliucordCosmicka\/main\/Kai_Cosmicka.json",
+        "updater": "https:\/\/raw.githubusercontent.com\/ZeldrexK0DE\/Cosmicka\/main\/Kai_Cosmicka.json",
         "license": "GPL-3.0"
     },
     "background": {
