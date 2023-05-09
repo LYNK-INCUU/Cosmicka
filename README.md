@@ -1,12 +1,13 @@
 # Cosmicka
-Vendetta\Aliucord RN Coming Soon!~
+- Comfy for da eyes~
+Vendetta Coming Soon!~
 
 Kais Purp Discord theme
 Wawa First theme for Aliucord
 
 - Vendetta
 
-Hold or click link to install
+Use raw link to install
 Enable in theme settings
 
 - Aliucord
