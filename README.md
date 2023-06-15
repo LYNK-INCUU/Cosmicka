@@ -1,12 +1,14 @@
 # Cosmicka
 - Comfy for da eyes~
-Vendetta Coming Soon!~
+Vendetta Has been released~
 
 Kais Purp Discord theme
 Wawa First theme for Aliucord
 
 - Vendetta
+![Aetherion-VDDA](https://github.com/ZeldrexK0DE/Cosmicka/assets/83987610/c9ba1468-9d80-4047-aeb5-85383894884a)
 
+Based off Cosmicka and improved.
 Use raw link to install
 Enable in theme settings
 
