@@ -8,6 +8,7 @@
       "id": "183251375193456641"
     }
   ],
+  "spec": 2,
   "semanticColors": {
     "HEADER_PRIMARY": ["#5e61ff"],
     "HEADER_SECONDARY": ["#d8c9ff"],
@@ -16,7 +17,7 @@
     "INTERACTIVE_NORMAL": ["#8945ff"],
     "INTERACTIVE_HOVER": ["#331982"],
     "INTERACTIVE_ACTIVE": ["#8c71de"],
-    "INTERACTIVE_MUTED": ["#5e61ff"],
+    "INTERACTIVE_MUTED": ["#5f5edd"],
     "BACKGROUND_PRIMARY": ["#080228"],
     "BACKGROUND_SECONDARY": ["#070221"],
     "BACKGROUND_SECONDARY_ALT": ["#080228"],
@@ -26,7 +27,7 @@
     "BACKGROUND_MOBILE_PRIMARY": ["#080228"],
     "BACKGROUND_MOBILE_SECONDARY": ["#080228"],
     "BACKGROUND_NESTED_FLOATING": ["#080228"],
-
+    
     "BACKGROUND_MESSAGE_HOVER": ["#0e0c1c"],
     "BACKGROUND_MODIFIER_HOVER": ["#0e0c1c"],
     "BACKGROUND_MODIFIER_ACTIVE": ["#2c265c"],
@@ -46,7 +47,7 @@
     "CHAT_BACKGROUND": ["#080228"]
   },
   "rawColors": {
-    "PRIMARY_500": "#8c42fc", 
+    "PRIMARY_500": "[#8c42fc, #8c42fc, #8c42fc]",
     "PRIMARY_100": "#d8c9ff",
     "PRIMARY_200": "#d8c9ff",
     "PRIMARY_300": "#6052ff",
@@ -72,5 +73,10 @@
     "ORANGE_345": "#6052ff",
     "RED_560": "#e18c41"
   },
-  "spec": 2
-}  
+  "background": {
+    "blur": 0.1, 
+    "url": "",
+    "alpha": 1.0
+  }
+}
+
