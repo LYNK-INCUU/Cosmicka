@@ -1,7 +1,7 @@
 {
-  "name": "Aetherion Dev",
+  "name": "Aetherion Dev BG",
   "version": "2.0.5 Dev",
-  "description": "A Purple Dark Theme, Comfy for the eyes~ | Based on Cosmicka.",
+  "description": "A Purple Dark Theme, With Background | Based on Cosmicka.",
   "authors": [
     {
       "name": "Lyntxrya#7769",
@@ -22,12 +22,12 @@
     "BACKGROUND_SECONDARY": ["#070221"],
     "BACKGROUND_SECONDARY_ALT": ["#080228"],
     "BACKGROUND_TERTIARY": ["#080228"],
-    "BACKGROUND_ACCENT": ["#130a2e"], 
+    "BACKGROUND_ACCENT": ["#130a2e"],
     "BACKGROUND_FLOATING": ["#080228"],
     "BACKGROUND_MOBILE_PRIMARY": ["#080228"],
     "BACKGROUND_MOBILE_SECONDARY": ["#080228"],
     "BACKGROUND_NESTED_FLOATING": ["#080228"],
-    
+
     "BACKGROUND_MESSAGE_HOVER": ["#0e0c1c"],
     "BACKGROUND_MODIFIER_HOVER": ["#0e0c1c"],
     "BACKGROUND_MODIFIER_ACTIVE": ["#2c265c"],
@@ -38,13 +38,13 @@
     "SCROLLBAR_AUTO_THUMB": ["transparent"],
     "SCROLLBAR_AUTO_TRACK": ["transparent"],
     "CHANNELTEXTAREA_BACKGROUND": ["#1e006b"],
-    "CHANNEL_TEXT_AREA_PLACEHOLDER":["#5e61ff"],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#5e61ff"],
     "CHANNELS_DEFAULT": ["#5e59a8"],
     "TEXT_LINK": ["#875eff"],
     "TEXT_DANGER": ["#b01e45"],
     "KEYBOARD": ["#110a11"],
     "CHANNEL_ICON": ["#8d85f8"],
-    "CHAT_BACKGROUND": "[#080228, #080228, #080228]"
+    "CHAT_BACKGROUND": ["#080228"]
   },
   "rawColors": {
     "PRIMARY_500": "[#8c42fc, #8c42fc, #8c42fc]",
@@ -52,8 +52,8 @@
     "PRIMARY_200": "#d8c9ff",
     "PRIMARY_300": "#6052ff",
     "PRIMARY_360": "#8563ff",
-    "PRIMARY_400": "#6052ff", 
-    "PRIMARY_600": "#080228", 
+    "PRIMARY_400": "#6052ff",
+    "PRIMARY_600": "#080228",
     "PRIMARY_630": "#12111b",
     "PRIMARY_660": "#080228",
     "PRIMARY_700": "#080128",
@@ -72,6 +72,10 @@
     "GREEN_360": "#4117ff",
     "ORANGE_345": "#6052ff",
     "RED_560": "#e18c41"
+  },
+  "background": {
+    "blur": 0.1,
+    "url": "",
+    "alpha": 1.0
   }
 }
-
