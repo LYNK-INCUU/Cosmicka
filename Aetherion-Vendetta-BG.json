@@ -74,8 +74,8 @@
     "RED_560": "#e18c41"
   },
   "background": {
-    "blur": 0.1,
-    "url": "",
-    "alpha": 1.0
+    "blur": 0.2,
+    "url": "https://github.com/ZeldrexK0DE/Cosmicka/blob/Dev/wp/2377084crop.png",
+    "alpha": 0.8
   }
 }
