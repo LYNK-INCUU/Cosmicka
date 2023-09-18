@@ -32,13 +32,13 @@
     "INTERACTIVE_MUTED": ["#5f5edd"],
     "INTERACTIVE_NORMAL": ["#8945ff"],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#393552"],
-    "SPOILER_HIDDEN_BACKGROUND": ["#2a283e"],
-    "TEXT_DANGER": ["#eb6f92"],
-    "TEXT_LINK": ["#f6c177"],
-    "TEXT_MUTED": ["#6e6a86"],
-    "TEXT_NORMAL": ["#e0def4"],
-    "CARD_PRIMARY_BG": ["#232136"],
-    "CARD_SECONDARY_BG": ["#393552"]
+    "SPOILER_HIDDEN_BACKGROUND": ["#130a2e"],
+    "TEXT_DANGER": ["#b01e45"],
+    "TEXT_LINK": ["#7d52ff"],
+    "TEXT_MUTED": ["#5e59a8"],
+    "TEXT_NORMAL": ["#d8c9ff"],
+    "CARD_PRIMARY_BG": ["#080228"],
+    "CARD_SECONDARY_BG": ["#2c265c"]
   },
   "rawColors": {
     "BRAND_260": "#7d52ff",
