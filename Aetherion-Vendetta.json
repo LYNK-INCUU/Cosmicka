@@ -8,7 +8,6 @@
       "id": "183251375193456641"
     }
   ],
-  "spec": 2,
   "semanticColors": {
     "HEADER_PRIMARY": ["#5e61ff"],
     "HEADER_SECONDARY": ["#d8c9ff"],
@@ -27,7 +26,6 @@
     "BACKGROUND_MOBILE_PRIMARY": ["#080228"],
     "BACKGROUND_MOBILE_SECONDARY": ["#080228"],
     "BACKGROUND_NESTED_FLOATING": ["#080228"],
-
     "BACKGROUND_MESSAGE_HOVER": ["#0e0c1c"],
     "BACKGROUND_MODIFIER_HOVER": ["#0e0c1c"],
     "BACKGROUND_MODIFIER_ACTIVE": ["#2c265c"],
