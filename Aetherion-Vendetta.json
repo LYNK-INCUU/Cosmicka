@@ -10,7 +10,7 @@
   ],
   "semanticColors": {
     "HEADER_PRIMARY": ["#5e61ff"],
-    "HEADER_SECONDARY": ["#e0def4"],
+    "HEADER_SECONDARY": ["#d8c9ff"],
     "TEXT_NORMAL": ["#d8c9ff"],
     "TEXT_MUTED": ["#2f2872"],
     "BACKGROUND_PRIMARY": ["#080228"],
@@ -25,8 +25,6 @@
     "BACKGROUND_MODIFIER_ACTIVE": ["#241c52"],
     "BACKGROUND_MODIFIER_HOVER": ["#080228"],
     "BACKGROUND_MODIFIER_SELECTED": ["#201249"],
-    "SCROLLBAR_THIN_THUMB": ["#45475a", "hsla(217, 7.6%, 33.5%, 0.3)"],
-    "SCROLLBAR_THIN_TRACK": ["171717", "#45475a"],
     "SCROLLBAR_AUTO_THUMB": ["#979BF6", "#cccccc"],
     "INTERACTIVE_NORMAL": ["#5025fc"],
     "INTERACTIVE_HOVER": ["#331982"],
@@ -36,13 +34,11 @@
     "ACTIVITY_CARD_BACKGROUND": ["#130a2e", "#ffffff", "#130a2e"],
     "CHANNELS_DEFAULT": ["#5e61ff", "#5e61ff", "#5e61ff"],
     "CHAT_BACKGROUND": ["#080228", "#080228", "#080228"],
-
     "HOME_BACKGROUND": ["#080228"],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#080228"],
     "SPOILER_HIDDEN_BACKGROUND": ["#130a2e"],
     "TEXT_DANGER": ["#b01e45"],
     "TEXT_LINK": ["#7d52ff"],
-
     "CARD_PRIMARY_BG": ["#080228"],
     "CARD_SECONDARY_BG": ["#2c265c"]
   },
@@ -77,8 +73,6 @@
     "GREEN_830": "#429e04",
     "GREEN_860": "#429e04",
     "GREEN_900": "#429e04",
-    "BRAND_NEW_500_ALPHA_20": "#429e0433",
-    "PRIMARY_DARK_700_ALPHA_60": "#08022899",
     "GUILD_BOOSTING_PINK": "#eb6f92",
     "GUILD_BOOSTING_PURPLE": "#c4a7e7",
     "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#7d52ff",
