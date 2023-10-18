@@ -29,7 +29,7 @@
     "rgba(255, 255, 255, 0.03)",
     "rgba(139, 116, 139, 0.16)"
   ],
-  "BACKGROUND_MODIFIER_SELECTED": ["#1e1e2e", "hsla(214, 9.9%, 50.4%, 0.24)"],
+  "BACKGROUND_MODIFIER_SELECTED": ["#5f5edd", "hsla(214, 9.9%, 50.4%, 0.24)"],
   "BACKGROUND_MODIFIER_ACCENT": ["#14141f", "hsla(240, 7.7%, 2.5%, 0.08)"],
   "SCROLLBAR_THIN_THUMB": ["#45475a", "hsla(217, 7.6%, 33.5%, 0.3)"],
   "SCROLLBAR_AUTO_THUMB": ["#979BF6"],
