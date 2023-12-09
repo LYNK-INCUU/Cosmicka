@@ -1,10 +1,11 @@
 {
   "name": "Aetherion 2.0",
   "description": "An Comfy Dark Purple Theme",
+  "version": "2.1",
   "authors": [
     {
-    "name": "Lyntxrya#7769",
-    "id": "183251375193456641"
+      "name": "Lyntxrya#7769",
+      "id": "183251375193456641"
     }
   ],
   "spec": 2,
@@ -57,15 +58,10 @@
     "BRAND_500": "#5908C5",
     "BRAND_560": "#5908C5",
     "GREEN_100": "#d8c9ff",
-
     "GREEN_360": "#4117ff",
-
     "GREEN_600": "#429e04",
     "RED_400": "#5e61ff",
-
-
     "YELLOW_300": "#5e61ff",
-
     "PRIMARY_100": "#d8c9ff",
     "PRIMARY_200": "#d8c9ff",
     "PRIMARY_230": "#d8c9ff",
@@ -80,10 +76,7 @@
     "PRIMARY_660": "#080228",
     "PRIMARY_700": "#080228",
     "PRIMARY_800": "#080228",
-
-
-    "WHITE_500": "#d8c9ff",
-
+    "WHITE_500": "#d8c9ff"
   },
   "plus": {
     "version": "0",
