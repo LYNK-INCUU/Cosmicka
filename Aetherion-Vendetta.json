@@ -10,6 +10,9 @@
   ],
   "spec": 2,
   "semanticColors": {
+    "CHANNELTEXTAREA_BACKGROUND": [
+        "#080228",
+        "#959292"]
     "HEADER_PRIMARY": ["#5e61ff"],
     "HEADER_SECONDARY": ["#5e61ff"],
     "TEXT_NORMAL": ["#d8c9ff"],
