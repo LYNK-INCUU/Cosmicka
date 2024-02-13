@@ -10,9 +10,6 @@
   ],
   "spec": 2,
   "semanticColors": {
-    "CHANNELTEXTAREA_BACKGROUND": [
-        "#080228",
-        "#959292"]
     "HEADER_PRIMARY": ["#5e61ff"],
     "HEADER_SECONDARY": ["#5e61ff"],
     "TEXT_NORMAL": ["#d8c9ff"],
@@ -78,7 +75,16 @@
     "PRIMARY_660": "#080228",
     "PRIMARY_700": "#080228",
     "PRIMARY_800": "#080228",
-    "WHITE_500": "#d8c9ff"
+    "WHITE_500": "#d8c9ff",
+    "PLUM_13": "#181818",
+    "PLUM_15": "#170005",
+    "PLUM_16": "#000000",
+    "PLUM_17": "#170005",
+    "PLUM_18": "#170005",
+    "PLUM_19": "#080228",
+    "PLUM_20": "#080228",
+    "PLUM_22": "#080228",
+    "PLUM_23": "#170005"
   },
   "plus": {
     "version": "0",
