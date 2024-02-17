@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Note Vendetta has been discontinued.
+
 # Cosmicka 
   Kais Purpl Discord theme!
 Comfy for da eyes~
