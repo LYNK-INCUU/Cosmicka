@@ -1,7 +1,7 @@
 {
   "name": "Aetherion 2.0",
   "description": "An Comfy Dark Purple Theme",
-  "version": "2.8",
+  "version": "2.8.0.1",
   "authors": [
     {
       "name": "Lyntxrya#7769",
@@ -80,7 +80,7 @@
     "PLUM_15": "#5908C5",
     "PLUM_16": "#000000",
     "PLUM_17": "#5908C5",
-    "PLUM_18": "#61b0a4",
+    "PLUM_18": "#634fff",
     "PLUM_19": "#080228",
     "PLUM_20": "#080228",
     "PLUM_22": "#080228",
