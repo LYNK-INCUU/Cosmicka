@@ -88,6 +88,8 @@
   },
   "plus": {
     "version": "0",
+    "unreadBadgeColor": "#a296fa",
+    "mentionLineColor": "#6736ff",
     "customOverlays": true,
     "iconpack": "rosiecord-plumpy",
     "icons": {
