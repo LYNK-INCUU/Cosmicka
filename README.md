@@ -1,7 +1,7 @@
 > [!IMPORTANT]
 > Note Vendetta has been discontinued. Please use [pyoncord](https://github.com/pyoncord/Bunny).
 
-# Lynk's Purpl themesw!
+# Lynk's Purpl themes!
 Hii I made a thing comfy for the eyes~
 
 
