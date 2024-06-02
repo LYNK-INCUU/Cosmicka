@@ -10,7 +10,6 @@
   "semanticColors": {
     "HEADER_PRIMARY": ["#5e61ff"],
     "HEADER_SECONDARY": ["#5e61ff"],
-    "CHAT_BACKGROUND": ["#080228"],
     "TEXT_NORMAL": ["#d8c9ff"],
     "TEXT_MUTED": ["#D793B5"],
     "INTERACTIVE_NORMAL": ["#5e61ff"],
