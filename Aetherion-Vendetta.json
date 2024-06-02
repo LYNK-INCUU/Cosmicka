@@ -43,6 +43,7 @@
     "CHANNELS_DEFAULT": ["#5B539D", "#7c6ea7"],
     "TEXT_LINK": ["#5e61ff", "#7d52ff"],
     "KEYBOARD": ["#080228", "#7d52ff"],
+    "EMBED_BACKGROUND": ["#2c265c"],
     "CHANNEL_ICON": ["#d8c9ff", "#130a2e"],
     "BORDER_FAINT": ["#5e61ff"],
     "BORDER_STRONG": ["#5e61ff"],
