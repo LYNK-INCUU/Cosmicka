@@ -59,22 +59,25 @@
     "REDESIGN_CHAT_INPUT_BACKGROUND": ["#2c265c"],
     "SPOILER_HIDDEN_BACKGROUND": ["#5B539D"],
     "TEXT_DANGER": ["#b01e45"],
-    "BG_BACKDROP": ["#010173"]
+    "BG_BACKDROP": ["#2c265c"]
   },
-  "rawColors": {
+  "rawColors": {  
     "PRIMARY_DARK": "#080228",
     "PRIMARY_100": "#d8c9ff",
     "PRIMARY_200": "#d8c9ff",
     "PRIMARY_230": "#5B539D",
-    "PRIMARY_300": "#4d4463",
+     
+    "PRIMARY_300": "#614bb8",
     "PRIMARY_360": "#8563ff",
-    "PRIMARY_400": "#634fff",
+    "PRIMARY_400": "#614bb8", 
+
     "PRIMARY_460": "#634fff",
     "PRIMARY_500": "#634fff",
     "PRIMARY_600": "#080228",
-    "PRIMARY_630": "#61b0a4",
+    "PRIMARY_630": "#69a9a4",
     "PRIMARY_645": "#080228",
-    "PRIMARY_660": "#080228",
+    
+    "PRIMARY_660": "#080128",
     "PRIMARY_700": "#080228",
     "PRIMARY_800": "#080228",
     "BRAND_260": "#7d52ff",
