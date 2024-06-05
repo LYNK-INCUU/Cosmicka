@@ -59,7 +59,7 @@
     "REDESIGN_CHAT_INPUT_BACKGROUND": ["#2c265c"],
     "SPOILER_HIDDEN_BACKGROUND": ["#5B539D"],
     "TEXT_DANGER": ["#b01e45"],
-    "BG_BACKDROP": ["#04010173"]
+    "BG_BACKDROP": ["#010173"]
   },
   "rawColors": {
     "PRIMARY_DARK": "#080228",
