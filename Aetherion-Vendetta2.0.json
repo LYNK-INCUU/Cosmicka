@@ -1,0 +1,58 @@
+{
+    "name": "Aetherion",
+    "description": "A Comfy Dark Purple Theme",
+    "authors": [
+      {
+        "name": "Lynx_StxrTouchVT/Lyntxrya#7769",
+        "id": "183251375193456641"
+      }
+    ],
+    "semanticColors": {
+        "ANDROID_RIPPLE": [
+            "#75dddd"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#5f5edd"
+        ]
+    },
+    
+    "rawColors": {
+        "BRAND_260": "#7d52ff",
+        "BRAND_300": "#7d52ff",
+        "BRAND_360": "#7d52ff",
+        "BRAND_500": "#5908C5",
+        "BRAND_560": "#5908C5",
+        "GREEN_100": "#d8c9ff",
+        "GREEN_360": "#4117ff",
+        "GREEN_600": "#429e04",
+        "RED_400": "#5e61ff",
+        "YELLOW_300": "#5e61ff",
+        "PRIMARY_100": "#d8c9ff",
+        "PRIMARY_200": "#d8c9ff",
+        "PRIMARY_230": "#d8c9ff",
+        "PRIMARY_300": "#232136",
+        "PRIMARY_360": "#8563ff",
+        "PRIMARY_400": "#634fff",
+        "PRIMARY_460": "#634fff",
+        "PRIMARY_500": "#8c42fc",
+        "PRIMARY_600": "#080228",
+        "PRIMARY_630": "#12111b",
+        "PRIMARY_645": "#080228",
+        "PRIMARY_660": "#080228",
+        "PRIMARY_700": "#080228",
+        "PRIMARY_800": "#080228",
+        "WHITE_500": "#d8c9ff",
+        "PLUM_13": "#181818",
+        "PLUM_15": "#5908C5",
+        "PLUM_16": "#000000",
+        "PLUM_17": "#5908C5",
+        "PLUM_18": "#5908c5",
+        "PLUM_19": "#080228",
+        "PLUM_20": "#080228",
+        "PLUM_22": "#080228",
+        "PLUM_23": "#634fff"
+    },
+    
+    "spec": 2
+    
+}

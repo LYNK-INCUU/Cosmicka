@@ -1,0 +1,241 @@
+{
+    "name": "Tachiyomi Lavender",
+    "description": "A theme inspired by Tachiyomi's Lavender color scheme.",
+    "authors": [
+      {
+        "name": "LuckFire",
+        "id": "399416615742996480"
+      }
+    ],
+    "semanticColors": {
+        "ACTIVITY_CARD_BACKGROUND": [
+          "#222046"
+        ],
+        "BACKGROUND_ACCENT": [
+          "#0C0C1D"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+          "#111128"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+          "#181632"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+          "#27253C7a"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+          "#27253C7a"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+          "#27253C4d"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+          "#27253C99"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+          "#181632"
+        ],
+        "BACKGROUND_PRIMARY": [
+          "#111128"
+        ],
+        "BACKGROUND_SECONDARY": [
+          "#181632"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+          "#1D1B3C"
+        ],
+        "BACKGROUND_TERTIARY": [
+          "#222046"
+        ],
+        "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": [
+          "#18163299"
+        ],
+        "BUTTON_OUTLINE_BRAND_BACKGROUND_ACTIVE": [
+          "#794ef4"
+        ],
+        "BUTTON_OUTLINE_BRAND_BACKGROUND_HOVER": [
+          "#9a79f7"
+        ],
+        "BUTTON_OUTLINE_BRAND_BORDER": [
+          "#9a79f7"
+        ],
+        "BUTTON_OUTLINE_BRAND_BORDER_ACTIVE": [
+          "#794ef4"
+        ],
+        "BUTTON_OUTLINE_BRAND_BORDER_HOVER": [
+          "#9a79f7"
+        ],
+        "BUTTON_OUTLINE_BRAND_TEXT": [
+          "#ffffff"
+        ],
+        "BUTTON_OUTLINE_PRIMARY_BACKGROUND": [
+          "#ffffff00"
+        ],
+        "BUTTON_OUTLINE_PRIMARY_BACKGROUND_ACTIVE": [
+          "#6d6f78"
+        ],
+        "BUTTON_OUTLINE_PRIMARY_BACKGROUND_HOVER": [
+          "#27253C"
+        ],
+        "BUTTON_OUTLINE_PRIMARY_BORDER": [
+          "#27253C"
+        ],
+        "BUTTON_OUTLINE_PRIMARY_BORDER_ACTIVE": [
+          "#6d6f78"
+        ],
+        "BUTTON_OUTLINE_PRIMARY_BORDER_HOVER": [
+          "#27253C"
+        ],
+        "BUTTON_SECONDARY_BACKGROUND": [
+          "#27253C"
+        ],
+        "BUTTON_SECONDARY_BACKGROUND_ACTIVE": [
+          "#232049"
+        ],
+        "BUTTON_SECONDARY_BACKGROUND_DISABLED": [
+          "#27253C"
+        ],
+        "BUTTON_SECONDARY_BACKGROUND_HOVER": [
+          "#1C193A"
+        ],
+        "CHANNEL_ICON": [
+          "#E0E7FD"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+          "#8F94A3"
+        ],
+        "CHANNELS_DEFAULT": [
+          "#B3BFE5"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+          "#111128"
+        ],
+        "CHAT_BACKGROUND": [
+          "#111128"
+        ],
+        "CHAT_BORDER": [
+          "#222046"
+        ],
+        "CHAT_INPUT_CONTAINER_BACKGROUND": [
+          "#111128"
+        ],
+        "CONTROL_BRAND_FOREGROUND": [
+          "#949cf7"
+        ],
+        "CONTROL_BRAND_FOREGROUND_NEW": [
+          "#949cf7"
+        ],
+        "DEPRECATED_CARD_BG": [
+          "#22204699"
+        ],
+        "DEPRECATED_CARD_EDITABLE_BG": [
+          "#2220464d"
+        ],
+        "DEPRECATED_STORE_BG": [
+          "#111128"
+        ],
+        "DEPRECATED_TEXT_INPUT_BG": [
+          "#222046"
+        ],
+        "DEPRECATED_TEXT_INPUT_PREFIX": [
+          "#E0E7FD"
+        ],
+        "DISPLAY_BANNER_OVERFLOW_BACKGROUND": [
+          "#22204680"
+        ],
+        "FORUM_POST_EXTRA_MEDIA_COUNT_CONTAINER_BACKGROUND": [
+          "#1D1B3Ccc"
+        ],
+        "FORUM_POST_TAG_BACKGROUND": [
+          "#1D1B3Ce6"
+        ],
+        "HEADER_PRIMARY": [
+          "#e0e7fd"
+        ],
+        "HEADER_SECONDARY": [
+          "#8F94A3"
+        ],
+        "INPUT_BACKGROUND": [
+          "#222046"
+        ],
+        "INPUT_PLACEHOLDER_TEXT": [
+          "#8F94A3"
+        ],
+        "INTERACTIVE_ACTIVE": [
+          "#FFFFFF"
+        ],
+        "INTERACTIVE_HOVER": [
+          "#B3BFE5"
+        ],
+        "INTERACTIVE_MUTED": [
+          "#27253C"
+        ],
+        "INTERACTIVE_NORMAL": [
+          "#E0E7FD"
+        ],
+        "MODAL_BACKGROUND": [
+          "#111128"
+        ],
+        "MODAL_FOOTER_BACKGROUND": [
+          "#181632"
+        ],
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+          "#222046"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+          "#222046"
+        ],
+        "SPOILER_REVEALED_BACKGROUND": [
+          "#1D1B3C"
+        ],
+        "TEXT_BRAND": [
+          "#a486f8"
+        ],
+        "TEXT_MUTED": [
+          "#8F94A3"
+        ],
+        "TEXT_NORMAL": [
+          "#E0E7FD"
+        ],
+        "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
+          "#22204680"
+        ]
+    },
+    "rawColors": { 
+        "PRIMARY_460": "#181632",
+        "PRIMARY_530": "#0C0C1D",
+        "PRIMARY_560": "#111128",
+        "PRIMARY_600": "#111128",
+        "PRIMARY_630": "#181632",
+        "PRIMARY_660": "#1D1B3C",
+        "PRIMARY_700": "#222046",
+        "PRIMARY_800": "#181632",
+        "BRAND_100": "#f5f2fe",
+        "BRAND_130": "#e1d7fd",
+        "BRAND_160": "#c5b2fa",
+        "BRAND_200": "#b8a1f9",
+        "BRAND_230": "#b39bf9",
+        "BRAND_260": "#b197f9",
+        "BRAND_300": "#ac90f8",
+        "BRAND_330": "#a98df8",
+        "BRAND_345": "#a78af8",
+        "BRAND_360": "#a486f8",
+        "BRAND_400": "#a283f8",
+        "BRAND_430": "#9f80f7",
+        "BRAND_460": "#9d7cf7",
+        "BRAND_500": "#9a79f7",
+        "BRAND_530": "#8f6bf6",
+        "BRAND_560": "#794ef4",
+        "BRAND_600": "#5729d8",
+        "BRAND_630": "#343b8f",
+        "BRAND_660": "#2d347d",
+        "BRAND_700": "#232861",
+        "BRAND_730": "#21265b",
+        "BRAND_760": "#1e2353",
+        "BRAND_800": "#1a1e49",
+        "BRAND_830": "#141738",
+        "BRAND_860": "#0d0f24",
+        "BRAND_900": "#04050c"
+    },
+    "spec": 2
+  }
