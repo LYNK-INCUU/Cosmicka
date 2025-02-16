@@ -103,6 +103,7 @@
       "PLUM_22": "#080228",
       "PLUM_24": "#232861",
       "TEXT_LINK": "#D793d5",
+              "TEXT_NORMAL": "#D793d5",
      "WHITE_500": "#d8c9ff",
       "GUILD_BOOSTING_PINK": "#eb6f92",
       "GUILD_BOOSTING_PURPLE": "#c4a7e7",
@@ -155,8 +156,7 @@
       "PREMIUM_TIER_2_PURPLE_FOR_GRADIENTS_2": "#b845c1"
   },
   "plus": {
-      "version": "0",
-      "customOverlays": true,
+      "version": 0,
       "iconpack": "rosiecord-plumpy",
       "icons": {
           "mentionLineColor": "#5025fc",

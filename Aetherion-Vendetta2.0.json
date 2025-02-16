@@ -15,49 +15,50 @@
             "#080228"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-          "#080228"
+            "#080228"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-          "#080228"
+            "#080228"
         ],
         "BACKGROUND_SECONDARY": [
-          "#080228"
-      ],
-      "BACKGROUND_SECONDARY_ALT": [
-          "#080228"
-      ],
-      "BACKGROUND_MODIFIER_ACTIVE": [
-          "#080228"
-      ],
-      "BACKGROUND_MODIFIER_ACCENT": [
-          "#080228"
-      ],
-      "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-        "#5909c4"
-    ],
-      "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-          "#12153F"
-      ],
-      "REDESIGN_INPUT_CONTROL_ACTIVE_BG": [
-          "#5909c4"
-      ],
-      "REDESIGN_INPUT_CONTROL_SELECTED": [
-          "#5909c4"
-      ],
-      "BG_BASE_TERTIARY": [
-          "#080228"
-      ],
-      "BACKGROUND_FLOATING": [
-          "#080228"
-      ],
-      "BG_MOD_STRONG": [
-          "#080228"
-      ],
+            "#080228"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#080228"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#080228"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#080228"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#5909c4"
+        ],
+        "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+            "#12153F"
+        ],
+        "REDESIGN_INPUT_CONTROL_ACTIVE_BG": [
+            "#5909c4"
+        ],
+        "REDESIGN_INPUT_CONTROL_SELECTED": [
+            "#5909c4"
+        ],
+        "BG_BASE_TERTIARY": [
+            "#080228"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#080228"
+        ],
+        "BG_MOD_STRONG": [
+            "#080228"
+        ],
         "SCROLLBAR_AUTO_THUMB": [
             "#979BF6"
         ],
-        
-        "BG_BACKDROP": ["#04010173"]
+        "BG_BACKDROP": [
+            "#04010173"
+        ]
     },
     "rawColors": {
         "PRIMARY_600": "#080228",
@@ -102,11 +103,11 @@
         "PLUM_20": "#080228",
         "PLUM_22": "#080228",
         "PLUM_24": "#232861",
-        "TEXT_LINK": "#D793d5"
+        "TEXT_LINK": "#D793d5",
+        "TEXT_NORMAL": "#D793d5"
     },
     "plus": {
-        "version": "0",
-        "customOverlays": true,
+        "version": 0,
         "iconpack": "rosiecord-plumpy",
         "icons": {
             "mentionLineColor": "#5025fc",
@@ -117,7 +118,6 @@
             "StatusDND": "#eb6f92",
             "StatusOffline": "#6e6a86",
             "StatusOnline": "#5aeda1"
-        
         }
     },
     "spec": 2
