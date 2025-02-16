@@ -26,6 +26,12 @@
         "BACKGROUND_MODIFIER_ACCENT": [
             "#0D043B"
         ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#5909c4"
+        ],
+        "REDESIGN_INPUT_CONTROL_ACTIVE_BG": [
+            "#24244F"
+        ],
         "BG_BASE_TERTIARY": [
             "#24244F"
         ],
