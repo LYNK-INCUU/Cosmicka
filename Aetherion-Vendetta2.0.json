@@ -79,7 +79,18 @@
     "plus": {
         "version": "0",
         "customOverlays": true,
-        "iconpack": "rosiecord-plumpy"
+        "iconpack": "rosiecord-plumpy",
+        "icons": {
+            "mentionLineColor": "#5025fc",
+            "ic_new_pins": "#634fff",
+            "StatusStreaming": "#6052ff",
+            "StatusMobileOnline": "#5aeda1",
+            "StatusIdle": "#f6c177",
+            "StatusDND": "#eb6f92",
+            "StatusOffline": "#6e6a86",
+            "StatusOnline": "#5aeda1"
+        
+        }
     },
     "spec": 2
 }
