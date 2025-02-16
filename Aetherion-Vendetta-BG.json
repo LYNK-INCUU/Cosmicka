@@ -18,7 +18,20 @@
     "BACKGROUND_MODIFIER_ACCENT": ["#0D043B"],
     "BG_BASE_TERTIARY": ["#24244F"],
     "BACKGROUND_FLOATING": ["#24244F"],
-    "BG_MOD_STRONG": ["#17A6EE"]
+    "BG_MOD_STRONG": ["#17A6EE"],
+    "BACKGROUND_MESSAGE_HOVER": ["rgba(255, 255, 255, 0.02)", "#FFFFFF"],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "hsla(214, 9.9%, 50.4%, 0.08)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(255, 255, 255, 0.03)",
+      "rgba(139, 116, 139, 0.16)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": ["#5f5edd", "hsla(214, 9.9%, 50.4%, 0.24)"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#14141f", "hsla(240, 7.7%, 2.5%, 0.08)"],
+    "SCROLLBAR_THIN_THUMB": ["#45475a", "hsla(217, 7.6%, 33.5%, 0.3)"],
+    "SCROLLBAR_AUTO_THUMB": ["#979BF6"]
   },
   "rawColors": {
     "PRIMARY_600": "#080228",
