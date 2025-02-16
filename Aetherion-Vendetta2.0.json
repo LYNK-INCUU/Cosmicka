@@ -2,10 +2,10 @@
     "name": "Aetherion",
     "description": "A Comfy Dark Purple Theme",
     "authors": [
-      {
-        "name": "Lynx_StxrTouchVT/Lyntxrya#7769",
-        "id": "183251375193456641"
-      }
+        {
+            "name": "Lynx_StxrTouchVT/Lyntxrya#7769",
+            "id": "183251375193456641"
+        }
     ],
     "semanticColors": {
         "ANDROID_RIPPLE": [
@@ -15,8 +15,7 @@
             "#5f5edd"
         ]
     },
-    
-    "rawColors": { 
+    "rawColors": {
         "GREEN_360": "#17A6EE",
         "BRAND_100": "#f5f2fe",
         "BRAND_130": "#e1d7fd",
@@ -45,11 +44,12 @@
         "BRAND_860": "#0d0f24",
         "BRAND_900": "#04050c",
         "PLUM_1": "#634fff",
+        "PLUM_10": "#D793d5",
+        "PLUM_18": "#080228",
+        "PLUM_19": "#241c52",
         "PLUM_20": "#080228",
         "PLUM_22": "#080228",
-            "PLUM_24": "#634fff"
+        "PLUM_24": "#232861"
     },
-    
     "spec": 2
-    
 }
