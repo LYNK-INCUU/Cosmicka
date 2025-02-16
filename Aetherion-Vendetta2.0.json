@@ -12,46 +12,56 @@
             "#75dddd"
         ],
         "BACKGROUND_ACCENT": [
-            "#5f5edd"
+            "#080228"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#080228"
-          ],
-          "BACKGROUND_MOBILE_SECONDARY": [
-            "#080228"
-          ],
+          "#080228"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+          "#080228"
+        ],
         "BACKGROUND_SECONDARY": [
-            "#080228"
+          "#080228"
+      ],
+      "BACKGROUND_SECONDARY_ALT": [
+          "#080228"
+      ],
+      "BACKGROUND_MODIFIER_ACTIVE": [
+          "#080228"
+      ],
+      "BACKGROUND_MODIFIER_ACCENT": [
+          "#080228"
+      ],
+      "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+        "#5909c4"
+    ],
+      "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+          "#12153F"
+      ],
+      "REDESIGN_INPUT_CONTROL_ACTIVE_BG": [
+          "#1E1033"
+      ],
+      "BG_BASE_TERTIARY": [
+          "#080228"
+      ],
+      "BACKGROUND_FLOATING": [
+          "#080228"
+      ],
+      "BG_MOD_STRONG": [
+          "#17A6EE"
+      ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#979BF6"
         ],
-        "BACKGROUND_SECONDARY_ALT": [
-            "#080228"
-        ],
-        "BACKGROUND_MODIFIER_ACTIVE": [
-            "#0D043B"
-        ],
-        "BACKGROUND_MODIFIER_ACCENT": [
-            "#0D043B"
-        ],
-        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#5909c4"
-        ],
-        "REDESIGN_INPUT_CONTROL_ACTIVE_BG": [
-            "#1E1033"
-        ],
-        "BG_BASE_TERTIARY": [
-            "#24244F"
-        ],
-        "BACKGROUND_FLOATING": [
-            "#24244F"
-        ],
-        "BG_MOD_STRONG": [
-            "#17A6EE"
-        ]
-
+        
+        "BG_BACKDROP": ["#04010173"]
     },
     "rawColors": {
-        "PRIMARY_660": "#2c265c",
-        "PRIMARY_700": "#2c265c",
+        "PRIMARY_600": "#080228",
+        "PRIMARY_630": "#12111b",
+        "PRIMARY_645": "#080228",
+        "PRIMARY_660": "#080228",
+        "PRIMARY_700": "#080228",
         "PRIMARY_800": "#634fff",
         "GREEN_360": "#17A6EE",
         "BRAND_100": "#f5f2fe",
@@ -80,7 +90,6 @@
         "BRAND_830": "#141738",
         "BRAND_860": "#0d0f24",
         "BRAND_900": "#04050c",
-        "TEXT_LINK": "#D793d5",
         "PLUM_1": "#634fff",
         "PLUM_10": "#D793d5",
         "PLUM_16": "#634fff",
@@ -89,7 +98,8 @@
         "PLUM_19": "#241c52",
         "PLUM_20": "#080228",
         "PLUM_22": "#080228",
-        "PLUM_24": "#232861"
+        "PLUM_24": "#232861",
+        "TEXT_LINK": "#D793d5"
     },
     "plus": {
         "version": "0",
