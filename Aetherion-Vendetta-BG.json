@@ -41,6 +41,9 @@
     "REDESIGN_INPUT_CONTROL_ACTIVE_BG": [
         "#5909c4"
     ],
+    "REDESIGN_INPUT_CONTROL_SELECTED": [
+      "#5909c4"
+  ],
     "BG_BASE_TERTIARY": [
         "#080228"
     ],
@@ -48,7 +51,7 @@
         "#080228"
     ],
     "BG_MOD_STRONG": [
-        "#17A6EE"
+        "#080228"
     ],
       "SCROLLBAR_AUTO_THUMB": [
           "#979BF6"
