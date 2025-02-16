@@ -12,7 +12,7 @@
           "#75dddd"
       ],
       "BACKGROUND_ACCENT": [
-          "#5f5edd"
+          "#080228"
       ],
       "BACKGROUND_SECONDARY": [
         "#080228"
@@ -38,6 +38,7 @@
       "SCROLLBAR_AUTO_THUMB": [
           "#979BF6"
       ],
+      
       "BG_BACKDROP": ["#04010173"]
   },
   "rawColors": {
@@ -76,12 +77,14 @@
       "BRAND_900": "#04050c",
       "PLUM_1": "#634fff",
       "PLUM_10": "#D793d5",
+      "PLUM_16": "#634fff",
+      "PLUM_17": "#080228",
       "PLUM_18": "#080228",
       "PLUM_19": "#241c52",
       "PLUM_20": "#080228",
       "PLUM_22": "#080228",
       "PLUM_24": "#232861",
-      "WHITE_500": "#d8c9ff",
+     "WHITE_500": "#d8c9ff",
       "GUILD_BOOSTING_PINK": "#eb6f92",
       "GUILD_BOOSTING_PURPLE": "#c4a7e7",
       "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#7d52ff",
