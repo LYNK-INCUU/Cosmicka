@@ -1,54 +1,41 @@
 {
-  "name": "Aetherion 2.0 [BG]",
-  "version": "2.0.6",
-  "description": "A Purple Dark Theme, With Background | Based on Cosmicka.",
+  "name": "Aetherion",
+  "description": "A Comfy Dark Purple Theme",
   "authors": [
-    {
-      "name": "Lyntxrya#7769",
-      "id": "183251375193456641"
-    }
+      {
+          "name": "Lynx_StxrTouchVT/Lyntxrya#7769",
+          "id": "183251375193456641"
+      }
   ],
   "semanticColors": {
-    "HEADER_PRIMARY": ["#5e61ff"],
-    "HEADER_SECONDARY": ["#e0def4"],
-    "TEXT_NORMAL": ["#d8c9ff", "#d8c9ff", "#d8c9ff"],
-    "TEXT_MUTED": ["#2f2872"],
-    "BACKGROUND_PRIMARY": ["#080228", "#080228", "#080228"],
-    "BACKGROUND_SECONDARY": ["#080228", "#080228", "#080228"],
-    "BACKGROUND_SECONDARY_ALT": ["#070221", "#070221", "#070221"],
-    "BACKGROUND_TERTIARY": ["#130a2e", "#130a2e", "#130a2e"],
-    "BACKGROUND_ACCENT": ["#130a2e", "#130a2e", "#130a2e"],
-    "BACKGROUND_MOBILE_PRIMARY": ["#080228", "#080228", "#080228"],
-    "BACKGROUND_MOBILE_SECONDARY": ["#080228", "#080228", "#080228"],
-    "BACKGROUND_MESSAGE_HOVER": ["rgba(255, 255, 255, 0.02)", "#FFFFFF"],
-    "BACKGROUND_MODIFIER_HOVER": [
-      "rgba(255, 255, 255, 0.02)",
-      "hsla(214, 9.9%, 50.4%, 0.08)"
-    ],
-    "BACKGROUND_MODIFIER_ACTIVE": [
-      "rgba(255, 255, 255, 0.03)",
-      "rgba(139, 116, 139, 0.16)"
-    ],
-    "BACKGROUND_MODIFIER_SELECTED": ["#5f5edd", "hsla(214, 9.9%, 50.4%, 0.24)"],
-    "BACKGROUND_MODIFIER_ACCENT": ["#14141f", "hsla(240, 7.7%, 2.5%, 0.08)"],
-    "SCROLLBAR_THIN_THUMB": ["#45475a", "hsla(217, 7.6%, 33.5%, 0.3)"],
-    "SCROLLBAR_AUTO_THUMB": ["#979BF6"],
-    "INTERACTIVE_NORMAL": ["#5025fc"],
-    "INTERACTIVE_HOVER": ["#331982"],
-    "INTERACTIVE_ACTIVE": ["#d8c9ff"],
-    "INTERACTIVE_MUTED": ["#2f2872"],
-    "CHANNEL_ICON": ["#d8c9ff", "#d8c9ff", "#d8c9ff"],
-    "ACTIVITY_CARD_BACKGROUND": ["#130a2e", "#ffffff", "#130a2e"],
-    "CHANNELS_DEFAULT": ["#5e61ff", "#5e61ff", "#5e61ff"],
-    "CHAT_BACKGROUND": ["#080228", "#080228", "#080228"],
-    "HOME_BACKGROUND": ["#080228"],
-    "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#080228"],
-    "SPOILER_HIDDEN_BACKGROUND": ["#130a2e"],
-    "TEXT_DANGER": ["#b01e45", "#b01e45", "#b01e45"],
-    "TEXT_LINK": ["#7d52ff", "#7d52ff", "#7d52ff"],
-    "CARD_PRIMARY_BG": ["#080228"],
-    "CARD_SECONDARY_BG": ["#2c265c"],
-        "BG_BACKDROP": ["#04010173"]
+      "ANDROID_RIPPLE": [
+          "#75dddd"
+      ],
+      "BACKGROUND_ACCENT": [
+          "#5f5edd"
+      ],
+      "BACKGROUND_SECONDARY": [
+          "#080228"
+      ],
+      "BACKGROUND_SECONDARY_ALT": [
+          "#0D043B"
+      ],
+      "BACKGROUND_MODIFIER_ACTIVE": [
+          "#0D043B"
+      ],
+      "BACKGROUND_MODIFIER_ACCENT": [
+          "#0D043B"
+      ],
+      "BG_BASE_TERTIARY": [
+          "#24244F"
+      ],
+      "BACKGROUND_FLOATING": [
+          "#24244F"
+      ],
+      "BG_MOD_STRONG": [
+          "#17A6EE"
+      ]
+
   },
   "rawColors": {
     "PRIMARY_100": "#d8c9ff",

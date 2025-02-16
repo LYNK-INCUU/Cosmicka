@@ -76,5 +76,10 @@
         "PLUM_22": "#080228",
         "PLUM_24": "#232861"
     },
+    "plus": {
+        "version": "0",
+        "customOverlays": true,
+        "iconpack": "rosiecord-plumpy"
+    },
     "spec": 2
 }
