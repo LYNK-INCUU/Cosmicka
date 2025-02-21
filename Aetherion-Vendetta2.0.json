@@ -109,8 +109,8 @@
     "plus": {
         "version": 0,
         "iconpack": "rosiecord-plumpy",
+        "mentionLineColor": "#5025fc",
         "icons": {
-            "mentionLineColor": "#5025fc",
             "ic_new_pins": "#634fff",
             "StatusStreaming": "#6052ff",
             "StatusMobileOnline": "#5aeda1",
