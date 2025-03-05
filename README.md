@@ -8,7 +8,7 @@ Hii I made a thing comfy for the eyes~
 # Vendetta
 Based off Cosmicka and improved.
 
-* [Normal](https://raw.githubusercontent.com/LYNK-INCUU/Cosmicka/main/Aetherion-Vendetta.json)
+* [Normal](https://raw.githubusercontent.com/LYNK-INCUU/Cosmicka/refs/heads/main/Aetherion-Vendetta2.0.json)
 - [With Background](https://raw.githubusercontent.com/LYNK-INCUU/Cosmicka/main/Aetherion-Vendetta-BG.json)
 
 ![Aetherion-VDDA](https://github.com/ZeldrexK0DE/Cosmicka/assets/83987610/c9ba1468-9d80-4047-aeb5-85383894884a)
