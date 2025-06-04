@@ -1,0 +1,180 @@
+{
+  "name": "Aetherion BG",
+  "description": "A Comfy Dark Purple Theme",
+  "authors": [
+      {
+          "name": "Lynx_StxrTouchVT",
+          "id": "183251375193456641"
+      }
+  ],
+  "semanticColors": {
+      "ANDROID_RIPPLE": [
+          "#53438a"
+      ],
+      "BACKGROUND_ACCENT": [
+          "#080228"
+      ],
+      "BACKGROUND_MOBILE_PRIMARY": [
+        "#080228"
+      ],
+      "BACKGROUND_MOBILE_SECONDARY": [
+        "#080228"
+      ],
+      "BACKGROUND_SECONDARY": [
+        "#080228"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+        "#080228"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+        "#080228"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+        "#080228"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#53438a"
+  ],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+        "#12153F"
+    ],
+    "REDESIGN_INPUT_CONTROL_ACTIVE_BG": [
+        "#191830"
+    ],
+    "REDESIGN_INPUT_CONTROL_SELECTED": [
+      "#5909c4"
+  ],
+    "BG_BASE_TERTIARY": [
+        "#080228"
+    ],
+    "BACKGROUND_FLOATING": [
+        "#080228"
+    ],
+    "BG_MOD_STRONG": [
+        "#080228"
+    ],
+      "SCROLLBAR_AUTO_THUMB": [
+          "#979BF6"
+      ],
+      
+      "BG_BACKDROP": ["#04010173"]
+  },
+  "rawColors": {
+      "PRIMARY_600": "#080228",
+      "PRIMARY_630": "#12111b",
+      "PRIMARY_645": "#080228",
+      "PRIMARY_660": "#080228",
+      "PRIMARY_700": "#080228",
+      "PRIMARY_800": "#634fff",
+      "GREEN_360": "#17A6EE",
+      "BRAND_100": "#f5f2fe",
+      "BRAND_130": "#e1d7fd",
+      "BRAND_160": "#c5b2fa",
+      "BRAND_200": "#b8a1f9",
+      "BRAND_230": "#b39bf9",
+      "BRAND_260": "#b197f9",
+      "BRAND_300": "#ac90f8",
+      "BRAND_330": "#a98df8",
+      "BRAND_345": "#a78af8",
+      "BRAND_360": "#a486f8",
+      "BRAND_400": "#634fff",
+      "BRAND_430": "#9f80f7",
+      "BRAND_460": "#634fff",
+      "BRAND_500": "#5908C5",
+      "BRAND_530": "#8f6bf6",
+      "BRAND_560": "#794ef4",
+      "BRAND_600": "#5729d8",
+      "BLUE_345": "#0064d2",
+      "BRAND_660": "#2d347d",
+      "BRAND_700": "#232861",
+      "BRAND_730": "#21265b",
+      "BRAND_760": "#1e2353",
+      "BRAND_800": "#1a1e49",
+      "BRAND_830": "#141738",
+      "BRAND_860": "#0d0f24",
+      "BRAND_900": "#04050c",
+        "RED_400": "#5a32ed",
+        "RED_560": "#7150eb",
+      "PLUM_1": "#634fff",
+      "PLUM_10": "#634fff",
+      "PLUM_16": "#634fff",
+      "PLUM_17": "#080228",
+      "PLUM_18": "#080228",
+      "PLUM_19": "#241c52",
+      "PLUM_20": "#080228",
+      "PLUM_22": "#080228",
+      "PLUM_24": "#232861",
+      "TEXT_LINK": "#D793d5",
+              "TEXT_NORMAL": "#D793d5",
+     "WHITE_500": "#d8c9ff",
+      "GUILD_BOOSTING_PINK": "#eb6f92",
+      "GUILD_BOOSTING_PURPLE": "#c4a7e7",
+      "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#7d52ff",
+      "CREATOR_REVENUE_END": "#169dd8",
+      "CREATOR_REVENUE_START": "#11a574",
+      "CRUNCHYROLL": "#f78b24",
+      "EBAY": "#0064d2",
+      "EPIC_GAMES": "#3c3935",
+      "FACEBOOK": "#355089",
+      "GITHUB": "#191717",
+      "GOLD": "#ffc819",
+      "GUILD_BOOSTING_BLUE": "#3e70dd",
+      "GUILD_BOOSTING_BLUE_FOR_GRADIENTS": "#3442d9",
+      "HYPESQUAD_HOUSE_1": "#9c84ef",
+      "HYPESQUAD_HOUSE_2": "#f47b67",
+      "HYPESQUAD_HOUSE_3": "#45ddc0",
+      "PARTNER": "#4087ed",
+      "PAYPAL": "#13216b",
+      "PLAYSTATION": "#032f87",
+      "PREMIUM_PERK_BLUE": "#80a6ff",
+      "PREMIUM_PERK_BLUE_ALT": "#9cb8ff",
+      "PREMIUM_PERK_DARK_BLUE": "#4173da",
+      "PREMIUM_PERK_GOLD": "#faa61a",
+      "PREMIUM_PERK_GREEN": "#86dcc5",
+      "PREMIUM_PERK_LIGHT_BLUE": "#aec7ff",
+      "PREMIUM_PERK_ORANGE": "#fc964b",
+      "PREMIUM_PERK_PINK": "#ff80f4",
+      "PREMIUM_PERK_PURPLE": "#d09aff",
+      "PREMIUM_PERK_YELLOW": "#fed648",
+      "PREMIUM_TIER_0_BLUE": "#007cc2",
+      "PREMIUM_TIER_0_BLUE_FOR_GRADIENTS": "#007cc2",
+      "PREMIUM_TIER_0_BLUE_FOR_GRADIENTS_2": "#1776cf",
+      "PREMIUM_TIER_0_HEADER_GRADIENT_1": "#3736bb",
+      "PREMIUM_TIER_0_HEADER_GRADIENT_2": "#4670e8",
+      "PREMIUM_TIER_0_HEADER_GRADIENT_3": "#8377eb",
+      "PREMIUM_TIER_0_HEADER_GRADIENT_4": "#e782f1",
+      "PREMIUM_TIER_0_HEADER_GRADIENT_5": "#df90af",
+      "PREMIUM_TIER_0_PURPLE": "#5865f2",
+      "PREMIUM_TIER_0_PURPLE_FOR_GRADIENTS": "#5865f2",
+      "PREMIUM_TIER_1_BLUE": "#738ef5",
+      "PREMIUM_TIER_1_BLUE_FOR_GRADIENTS": "#5865f2",
+      "PREMIUM_TIER_1_DARK_BLUE_FOR_GRADIENTS": "#3442d9",
+      "PREMIUM_TIER_1_PURPLE": "#b3aeff",
+      "PREMIUM_TIER_2_PINK": "#e292aa",
+      "PREMIUM_TIER_2_PINK_FOR_GRADIENTS": "#ab5d8a",
+      "PREMIUM_TIER_2_PINK_FOR_GRADIENTS_2": "#b73ec1",
+      "PREMIUM_TIER_2_PURPLE": "#b473f5",
+      "PREMIUM_TIER_2_PURPLE_FOR_GRADIENTS": "#8547c6",
+      "PREMIUM_TIER_2_PURPLE_FOR_GRADIENTS_2": "#b845c1"
+  },
+  "plus": {
+      "version": 0,
+      "iconpack": "rosiecord-plumpy",
+      "mentionLineColor": "#5025fc",
+      "icons": {
+          "ic_new_pins": "#634fff",
+          "StatusStreaming": "#6052ff",
+          "StatusMobileOnline": "#5aeda1",
+          "StatusIdle": "#f6c177",
+          "StatusDND": "#eb6f92",
+          "StatusOffline": "#6e6a86",
+          "StatusOnline": "#5aeda1"
+      }
+  },
+  "background": {
+      "blur": 0.4,
+      "url": "https://github.com/LYNK-INCUU/Cosmicka/blob/main/wp/wp5235979-blue-aesthetic-computer-wallpapers.png",
+      "alpha": 1
+  },
+  "spec": 2
+}
