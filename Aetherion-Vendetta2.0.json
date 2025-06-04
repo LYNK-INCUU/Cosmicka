@@ -1,5 +1,5 @@
 {
-    "name": "Aetherion",
+    "name": "Aetherion 2",
     "description": "A Comfy Dark Purple Theme",
     "authors": [
         {
@@ -9,7 +9,7 @@
     ],
     "semanticColors": {
         "ANDROID_RIPPLE": [
-            "#75dddd"
+            "#53438a"
         ],
         "BACKGROUND_ACCENT": [
             "#080228"
