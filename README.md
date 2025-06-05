@@ -5,7 +5,7 @@
 Hii I made a thing comfy for the eyes~
 
 
-# Vendetta
+# Revenge
 Based off Cosmicka and improved.
 
 * [Normal](https://raw.githubusercontent.com/LYNK-INCUU/Cosmicka/refs/heads/main/Aetherion-Vendetta2.0.json)
