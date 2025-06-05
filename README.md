@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> Note Vendetta has been discontinued. Please use [pyoncord](https://github.com/pyoncord/Bunny).
+> Note Vendetta has been discontinued. Please use [Revenge](https://github.com/revenge-mod/revenge).
 
 # Lynk's Purpl themes!
 Hii I made a thing comfy for the eyes~
